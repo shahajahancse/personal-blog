@@ -10,7 +10,6 @@ Homestead.yaml
 npm-debug.log
 yarn-error.log
 
-email-inbox.html  
 email-templates.html
-email-compose.html  
-email-read.html 
+apps-projects.html
+
